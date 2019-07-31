@@ -1,0 +1,5 @@
+#body {
+  background: url("../img/big-data.jpg") no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 700px; }
